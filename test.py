@@ -24,4 +24,5 @@ with tf.Session(config=tf.ConfigProto(allow_soft_placement=True, log_device_plac
 import numpy as np
 print(np.exp(0))
 # %%
-import
+import pandas as pd
+
